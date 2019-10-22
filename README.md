@@ -10,6 +10,12 @@
   
 或許在未來的某個時候，會用得上的！  
 
+學習效率在自我學習的能力中也扮演重要角色，線上課程平台Coursera最受歡迎的一門課「學
+
+習如何學習」（[Learning How to Learn](https://www.coursera.org/learn/learning-how-to-learn)），是一堂非常有幫助與共鳴的課程，主要是在介紹
+
+一些學習的技巧，以及探討人類大腦當中不同的學習模式以及處理訊息的機制。
+
 ![](https://i2.wp.com/www.giornaledellepmi.it/wp-content/uploads/2016/06/Knowledge-sharing.jpg?fit=640%2C400&ssl=1)
   
   
@@ -23,6 +29,7 @@
 
 
 ## 瀑布模型（The Waterfall Model）Plan-driven
+探討模型定義、優缺點
 ## 隱形冠軍  
 ## 邊際效應 
 邊際效應（Marginal Effect）也可稱 “邊際貢獻”  
