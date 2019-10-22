@@ -495,18 +495,18 @@ https://stackoverflow.com/questions/10791332/netezza-how-to-add-a-column-to-a-ta
 
 
 # Posgre SQL 
-Postgre SQL 在使用 in 時，效能會非常不好
+Postgre SQL 在使用 in 時，效能會非常不好  
 連結：https://stackoverflow.com/questions/17037508/sql-when-it-comes-to-not-in-and-not-equal-to-which-is-more-efficient-and-why/17038097#17038097
 
-Streaming Replication (wal replication)
-串流複寫（ Streaming Replication ）是 PostgreSQL 的資料複寫（ Replication ）的功能。
-這功能是用來備份資料到別台機器上，並且在主要資料庫所在的主機發生異常時，利用備份機頂替主要資料庫。
+Streaming Replication (wal replication)  
+串流複寫（ Streaming Replication ）是 PostgreSQL 的資料複寫（ Replication ）的功能。  
+這功能是用來備份資料到別台機器上，並且在主要資料庫所在的主機發生異常時，利用備份機頂替主要資料庫。  
 連結：https://ravenonhill.blogspot.com/2016/03/streaming-replication.html
 連結：https://scalegrid.io/blog/getting-started-with-postgresql-streaming-replication/
 
 # DB2
 
-日期轉字串
-SELECT VARCHAR_FORMAT(MYDATE, 'YYYY/MM/DD') FROM MYCALENDAR;
+日期轉字串  
+SELECT VARCHAR_FORMAT(MYDATE, 'YYYY/MM/DD') FROM MYCALENDAR;  
 https://stackoverflow.com/questions/9083121/format-date-to-string
 https://www.ibm.com/support/knowledgecenter/SSEPGG_11.5.0/com.ibm.db2.luw.sql.ref.doc/doc/r0007110.html
